@@ -1,4 +1,4 @@
-# Homework06
+# Homework06 - Complete
 
 Exercises to practice pandas, data analysis and regression
 
